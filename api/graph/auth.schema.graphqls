@@ -1,0 +1,42 @@
+# Defines the response type after signup
+type SignupResponse {
+  user: User
+  userId: ID!
+  clerkId: String
+  customerUID: String
+}
+
+type SigninReponse {
+  token: String!
+}
+
+type VerifyCustomerResponse {
+  success: Boolean!
+  token: String!
+  OnboardingCompletion: Boolean!
+}
+
+# Defines the input type for the signup mutation
+input SignupInput {
+  email: String!
+  password: String!
+}
+
+input SigninInput {
+  email: String!
+  password: String!
+}
+
+input VerifyCustomerInput {
+  token: String!
+}
+
+# Defines the Mutation type that includes the signup mutation
+extend type Mutation {
+  signup(input: SignupInput!): SignupResponse!
+  verifyCustomer(input: VerifyCustomerInput!): VerifyCustomerResponse!
+}
+
+extend type Query {
+  signin(input: SigninInput!): SigninReponse!
+}

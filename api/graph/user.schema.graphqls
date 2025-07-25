@@ -1,0 +1,19 @@
+# Base User type definition
+type User {
+  id: ID!
+  userUID: String!
+  name: String
+  email: String!
+  role: String
+  isVerified: Boolean
+  customerUID: String
+  clerkId: String
+}
+
+extend type Query {
+  getAccountUsers: [User!]!
+}
+
+# extend type Query {
+#     ping: String @deprecated(reason: "https://stackoverflow.com/questions/59868942/graphql-a-schema-must-have-a-query-operation-defined")
+# }

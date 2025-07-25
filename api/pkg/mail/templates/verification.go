@@ -1,0 +1,130 @@
+// File: internal/mail/templates/verification.go
+
+package templates
+
+import (
+	"bytes"
+	"html/template"
+)
+
+const VerificationEmailTemplate = `<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Rively</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.5;
+            color: #0f172a;
+            background: #f8fafc;
+            margin: 0;
+            padding: 0;
+        }
+.container {
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 32px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .logo {
+            margin-bottom: 24px;
+            text-align: center;
+        }
+        .logo-text {
+            font-size: 24px;
+            font-weight: bold;
+            color: #0f172a;
+        }
+        .title {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            color: #0f172a;
+        }
+        .message {
+            color: #475569;
+            margin-bottom: 24px;
+        }
+        .button {
+            display: inline-block;
+            background: #0f172a;
+            color: white !important;
+            padding: 12px 24px;
+            border-radius: 6px;
+            text-decoration: none !important;
+            font-weight: 500;
+            margin-bottom: 24px;
+            border: none;
+        }
+        .button:hover {
+            background: #1e293b;
+            color: white !important;
+            text-decoration: none !important;
+        }
+        .button:visited {
+            color: white !important;
+        }
+        .footer {
+            font-size: 14px;
+            color: #64748b;
+            text-align: center;
+            margin-top: 32px;
+            padding-top: 16px;
+            border-top: 1px solid #e2e8f0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <div class="logo-text">Rively</div>
+        </div>
+        
+        <div class="title">Welcome to Rively! 🎉</div>
+        
+        <div class="message">
+            Thank you for signing up. To get started, please verify your email address by clicking the button below:
+        </div>
+        
+        <a href="{{.VerificationLink}}" class="button">Verify Email Address</a>
+        
+        <div class="message">
+            If the button doesn't work, you can also copy and paste this link into your browser:
+            <br>
+            <span style="color: #0f172a; word-break: break-all;">{{.VerificationLink}}</span>
+        </div>
+        
+        <div class="footer">
+            This email was sent to {{.EmailAddress}}
+            <br>
+            © 2024 Rively. All rights reserved.
+        </div>
+    </div>
+</body>
+</html>`
+
+func GetVerificationEmail(verificationLink, emailAddress string) (string, error) {
+	tmpl, err := template.New("verification").Parse(VerificationEmailTemplate)
+	if err != nil {
+		return "", err
+	}
+
+	data := struct {
+		VerificationLink string
+		EmailAddress     string
+	}{
+		VerificationLink: verificationLink,
+		EmailAddress:     emailAddress,
+	}
+
+	var buf bytes.Buffer
+	if err := tmpl.Execute(&buf, data); err != nil {
+		return "", err
+	}
+
+	return buf.String(), nil
+}
