@@ -1,0 +1,29 @@
+scalar UUID
+
+type Customer {
+  Id: Int
+  Email: String
+  Domain: String
+  CustomerUID: UUID
+  IsVerified: Boolean
+  OnboardingCompletion: Boolean
+}
+
+
+input UpdateCustomerAndUserInput{
+    name: String!
+    domain: String!
+    role: String!
+}
+
+extend type Query {
+  getCustomer: Customer!
+}
+
+extend type Mutation {
+  updateCustomerAndUser(input: UpdateCustomerAndUserInput!): Customer!
+}
+
+
+
+

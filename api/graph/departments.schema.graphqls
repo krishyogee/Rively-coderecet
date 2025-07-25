@@ -1,0 +1,9 @@
+type Department{
+  departmentUID: String!
+  name: String!
+}
+
+extend type Query {
+  getDepartments: [Department!]!
+}
+

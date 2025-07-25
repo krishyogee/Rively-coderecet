@@ -1,0 +1,65 @@
+type EmailRecipient {
+  id: Int!
+  emailRecipientUID: String!
+  name: String!
+  email: String!
+  isActive: Boolean!
+  departmentUID: String!
+  customerUID: String!
+  createdAt: DateTime!
+}
+
+type InviteData {
+  departmentUID: String!
+  isValid: Boolean!
+  customerUID: String!
+  expiresAt: DateTime!
+  createdAt: DateTime!
+}
+
+type InviteEmailRecipientResponse{
+  inviteToken: String!
+}
+
+input InviteEmailRecipientInput {
+  departmentUID: String!
+}
+
+input CreateEmailRecipientInput{
+    name: String!
+    email: String!
+    departmentUID: String!
+}
+
+input ValidateInviteInput{
+    token: String!
+}
+
+input UpdateEmailRecipientInput{
+  emailRecipientUID: String!
+  name: String
+  email: String
+  departmentUID: String
+  isActive: Boolean
+}
+
+input DeleteEmailRecipientInput{
+  emailRecipientUID: String!
+}
+
+type DeleteEmailRecipientResponse{
+  success: Boolean!
+}
+
+extend type Mutation {
+  inviteEmailRecipient(input: InviteEmailRecipientInput!): InviteEmailRecipientResponse!
+  createEmailRecipient(input: CreateEmailRecipientInput!): EmailRecipient!
+  updateEmailRecipient(input: UpdateEmailRecipientInput!): EmailRecipient!
+  deleteEmailRecipeint(input: DeleteEmailRecipientInput ): DeleteEmailRecipientResponse!
+}
+
+extend type Query{
+  validateInvite(input: ValidateInviteInput!): InviteData!
+  getAllEmailRecipients: [EmailRecipient!]!
+}
+
