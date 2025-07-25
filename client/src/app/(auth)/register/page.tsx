@@ -2,13 +2,13 @@
 
 import { useState } from 'react';
 import { useForm, SubmitHandler } from 'react-hook-form';
-import { useSignUp, useSignIn } from '@clerk/nextjs';
-import { useMutation } from '@apollo/client';
-import { SIGNUP_MUTATION } from '@/graphql/auth/mutations';
+// import { useSignUp, useSignIn } from '@clerk/nextjs';
+// import { useMutation } from '@apollo/client';
+// import { SIGNUP_MUTATION } from '@/graphql/auth/mutations';
 import { useRouter } from 'next/navigation';
 import Image from 'next/image';
-import Google from '../../../../public/assets/google-logo.png';
-import LinkedIn from '../../../../public/assets/linkedin-logo.png';
+// import Google from '../../../../public/assets/google-logo.png';
+// import LinkedIn from '../../../../public/assets/linkedin-logo.png';
 
 interface SignupInput {
   email: string;
@@ -22,8 +22,8 @@ export default function RegisterPage() {
   const [signUpError, setSignUpError] = useState('');
   const router = useRouter();
 
-  const { signUp, isLoaded } = useSignUp();
-  const { signIn } = useSignIn();
+  // const { signUp, isLoaded } = useSignUp();
+  // const { signIn } = useSignIn();
 
   const {
     register,
@@ -35,34 +35,31 @@ export default function RegisterPage() {
   const password = watch('password');
   const email = watch('email');
 
-  const [signup] = useMutation(SIGNUP_MUTATION, {
-    onCompleted: async () => {
-      const res = await signIn?.create({
-        identifier: email,
-        password: password,
-      });
-      router.push('/verification-sent');
-    },
-    onError: (error) => {
-      setSignUpError(error.message);
-    },
-  });
+  // const [signup] = useMutation(SIGNUP_MUTATION, {
+  //   onCompleted: async () => {
+  //     const res = await signIn?.create({
+  //       identifier: email,
+  //       password: password,
+  //     });
+  //     router.push('/verification-sent');
+  //   },
+  //   onError: (error) => {
+  //     setSignUpError(error.message);
+  //   },
+  // });
 
   const onSubmit: SubmitHandler<SignupInput> = async (data) => {
-    if (!isLoaded) return;
+    // if (!isLoaded) return;
     setIsLoading(true);
     try {
-      await signup({
-        variables: {
-          input: {
-            ...data,
-            confirmPassword: undefined,
-          },
-        },
-      });
+      // Temporary demo - just show loading state
+      console.log('Form data:', data);
+      setTimeout(() => {
+        setIsLoading(false);
+        alert('Registration form submitted! (Demo mode)');
+      }, 2000);
     } catch (error) {
       console.error(error);
-    } finally {
       setIsLoading(false);
     }
   };
@@ -159,11 +156,11 @@ export default function RegisterPage() {
           </div>
 
           <div className="flex justify-center gap-4">
-            <button className="w-12 h-12 rounded-full border-2 border-gray-300 flex items-center justify-center">
-              <Image className="w-6 h-6" src={Google} alt="Google" />
+            <button className="w-12 h-12 rounded-full border-2 border-gray-300 flex items-center justify-center text-xs">
+              G
             </button>
-            <button className="w-12 h-12 rounded-full border-2 border-gray-300 flex items-center justify-center">
-              <Image className="w-8 h-8" src={LinkedIn} alt="LinkedIn" />
+            <button className="w-12 h-12 rounded-full border-2 border-gray-300 flex items-center justify-center text-xs">
+              in
             </button>
           </div>
 
