@@ -1,0 +1,47 @@
+version: "1"
+packages:
+  - name: "customers"
+    path: "../../internal/repository/customers" # Code for customer queries will be generated here
+    queries: "./queries/customers.sql" # Queries related to customers
+    schema: "../../../db/schema.sql" # Path to schema file
+    engine: "postgresql"
+    emit_json_tags: true
+
+  - name: "users"
+    path: "../../internal/repository/users" # Code for user queries will be generated here
+    queries: "./queries/users.sql" # Queries related to users
+    schema: "../../../db/schema.sql" # Path to schema file
+    engine: "postgresql"
+    emit_json_tags: true
+
+  - name: "tracked_companies"
+    path: "../../internal/repository/tracked_companies" # Code for user queries will be generated here
+    queries: "./queries/tracked_companies.sql" # Queries related to users
+    schema: "../../../db/schema.sql" # Path to schema file
+    engine: "postgresql"
+    emit_json_tags: true
+
+  # - name: "company_updates"
+  #   path: "../../internal/repository/company_updates" # Code for user queries will be generated here
+  #   queries: "./queries/company_updates.sql" # Queries related to users
+  #   schema: "../../../db/schema.sql" # Path to schema file
+  #   engine: "postgresql"    
+  #   emit_json_tags: true
+
+  - name: "departments"
+    path: "../../internal/repository/departments" # Code for user queries will be generated here
+    queries: "./queries/departments.sql" # Queries related to users
+    schema: "../../../db/schema.sql" # Path to schema file
+    engine: "postgresql"    
+    emit_json_tags: true
+
+  - name: "email_recipients"
+    path: "../../internal/repository/email_recipients" # Code for email recipient queries will be generated here
+    queries: "./queries/email_recipients.sql" # Queries related to email recipients
+    schema: "../../../db/schema.sql" # Path to schema file
+    engine: "postgresql"    
+    emit_json_tags: true
+
+
+
+
