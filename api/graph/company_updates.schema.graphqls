@@ -1,0 +1,23 @@
+
+scalar DateTime
+
+type CompanyUpdate{
+  CompanyUpdateUID: String!
+  Title: String!
+  Description: String!
+  UpdateCategory: String!
+  UpdateType: String!
+  SourceType: String!
+  SourceURL: String!
+  PostedAt: DateTime!
+  CreatedAt: DateTime!
+  ActionPoint: String
+  TrackedCompanyUID: String!
+  Domain: String!
+}
+
+extend type Query {
+  getCompanyUpdates: [CompanyUpdate!]!
+}
+
+

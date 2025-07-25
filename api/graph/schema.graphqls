@@ -1,0 +1,8 @@
+type Query {
+  ping: String @deprecated(reason: "Default required query")
+}
+
+type Mutation {
+  # Empty root mutation type - will be extended by other schemas
+  _empty: String
+}

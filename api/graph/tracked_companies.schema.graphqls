@@ -1,0 +1,40 @@
+type TrackedCompany{
+  TrackedCompanyUID: String!
+  Name: String!
+  Domain: String!
+  Type: String!
+  Interests: [String!]!
+  CustomerUID: String!
+  CreatedAt: DateTime!
+  IsActive: Boolean!
+}
+
+
+input CreateTrackedCompanyInput{
+    name: String!
+    domain: String!
+    type: String!
+    interests: [String!]!
+}
+
+input DeleteTrackedCompanyInput{
+   trackedCompanyUID: String!
+}
+
+input UpdateTrackedCompanyInput{
+    trackedCompanyUID: String!
+    type: String
+    interests: [String!]
+    isActive: Boolean
+}
+
+extend type Mutation {
+  createTrackedCompany(input: [CreateTrackedCompanyInput!]!): [TrackedCompany!]!
+  deleteTrackedCompany(input: DeleteTrackedCompanyInput!): Boolean!
+  updateTrackedCompany(input: UpdateTrackedCompanyInput!): TrackedCompany!
+}
+
+extend type Query {
+  getTrackedCompanies: [TrackedCompany!]!
+}
+
