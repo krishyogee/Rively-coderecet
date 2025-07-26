@@ -1,0 +1,13 @@
+.env
+**/config.py
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+testvenv/
+
+# Google Cloud Storage credentials
+gcs-key.json
+*.json

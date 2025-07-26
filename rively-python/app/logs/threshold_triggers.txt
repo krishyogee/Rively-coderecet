@@ -1,0 +1,522 @@
+
+========================================
+Timestamp: 2025-07-26T08:41:14.237400
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:41:16.310529
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:41:17.849519
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:41:22.650706
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 0
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:41:34.182343
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:41:52.718955
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:42:10.744342
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 0
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:42:19.885018
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 60
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:42:31.479374
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:42:52.263763
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:43:15.632892
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:43:44.449942
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:44:11.342430
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 50
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:44:24.441019
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:03:41.075959
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 50
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:03:42.422294
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:03:44.146486
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 50
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:03:44.729096
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 0
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:03:46.005486
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:03:56.195445
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:04:11.360005
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 0
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:04:21.384611
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 60
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:04:36.895382
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 50
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:04:55.317319
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:05:10.450584
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:51:18.158416
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 90
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:51:38.343508
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:51:57.146368
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 50
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:52:19.502649
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 25
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:52:42.479521
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:53:09.147435
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:57:53.548600
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 0
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:57:54.727207
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:57:55.624369
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 0
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:57:56.013555
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 0
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:57:56.462755
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:58:07.250679
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 70
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:58:17.798292
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 50
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:58:27.577086
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 60
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:58:40.646465
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 50
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:58:49.623747
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:59:09.122833
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 60
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:59:20.965906
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:59:39.103010
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:00:03.010092
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: False, Usefulness Score: 50
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:39:51.773201
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 90
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:39:52.547768
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:39:53.208757
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 40
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:39:53.982321
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 30
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:40:04.189048
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:40:50.165907
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:40:50.910435
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:40:52.737553
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:41:23.782819
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 50
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:41:35.862792
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:41:54.827694
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: True, Usefulness Score: 80
+Agent Triggered: True
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:42:43.749971
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Attio
+Threshold Data: Actionable: False, Usefulness Score: 60
+Agent Triggered: False
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:42:48.777601
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Threshold Data: Actionable: False, Usefulness Score: 50
+Agent Triggered: False
+========================================
+

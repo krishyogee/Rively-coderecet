@@ -1,0 +1,46 @@
+
+========================================
+Timestamp: 2025-07-26T08:43:39.120176
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Agent Name: Similar Client Discovery Agent
+Success: True
+Agent Output:
+
+{"similar_companies": [{"company_name": "HubSpot", "domain": "hubspot.com"}, {"company_name": "Salesforce", "domain": "salesforce.com"}, {"company_name": "Pipedrive", "domain": "pipedrive.com"}, {"company_name": "Freshsales", "domain": "freshsales.com"}, {"company_name": "Nutshell", "domain": "nutshell.com"}, {"company_name": "Vtiger", "domain": "vtiger.com"}, {"company_name": "Zendesk Sell", "domain": "zendesk.com"}, {"company_name": "Bigin by Zoho", "domain": "zoho.com"}, {"company_name": "Pipeliner CRM", "domain": "pipelinersales.com"}]}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:44:07.328059
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Agent Name: Similar Client Discovery Agent
+Success: True
+Agent Output:
+
+{"similar_companies": [ {"company_name": "monday sales CRM", "domain": "monday.com"}, {"company_name": "Pipeline CRM", "domain": "pipelinecrm.com"}, {"company_name": "HubSpot CRM", "domain": "hubspot.com"}, {"company_name": "Nimble CRM", "domain": "nimble.com"}, {"company_name": "Insightly CRM", "domain": "insightly.com"} ]}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T08:44:59.504095
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Agent Name: Similar Client Discovery Agent
+Success: False
+Agent Output:
+Agent API call failed: HTTPSConnectionPool(host='agent-prod.studio.lyzr.ai', port=443): Read timed out. (read timeout=30)
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:42:36.616168
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company: Copper
+Agent Name: Content Marketing Agent
+Success: False
+Agent Output:
+Agent API call failed: timeout
+========================================
+

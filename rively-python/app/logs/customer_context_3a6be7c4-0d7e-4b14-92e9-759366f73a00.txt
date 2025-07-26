@@ -1,0 +1,1122 @@
+
+========================================
+Timestamp: 2025-07-26T09:03:41.072956
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed due to browser issues",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:03:42.407060
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed due to browser issues",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:03:44.144489
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed due to browser issues",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:03:44.727103
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed due to browser issues",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:03:46.004188
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed due to browser issues",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:03:56.194438
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed due to browser issues",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:04:11.357007
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed due to browser issues",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:04:21.383600
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed due to browser issues",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:04:36.893380
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed due to browser issues",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:04:55.315316
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed due to browser issues",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:05:10.449579
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed due to browser issues",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:51:18.157407
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:51:38.342508
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:51:57.145369
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:52:19.501651
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:52:42.478517
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:53:09.145434
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "error": "Context extraction failed",
+  "domain": "goml.io"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:57:53.548600
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:57:54.723056
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:57:55.622844
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:57:56.011527
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:57:56.462755
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:58:07.250679
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:58:17.796254
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:58:27.577086
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:58:40.646465
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:58:49.623747
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:59:09.122833
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:59:20.965906
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T09:59:39.099236
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:00:03.010092
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:39:51.770363
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:39:52.543607
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:39:53.204605
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:39:53.980293
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:40:04.184993
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:40:50.156429
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:40:50.908421
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:40:52.729464
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:41:23.780791
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:41:35.859986
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:41:54.827694
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:42:43.745909
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
+
+========================================
+Timestamp: 2025-07-26T10:42:48.769547
+Customer UID: 3a6be7c4-0d7e-4b14-92e9-759366f73a00
+Company Domain: goml.io
+Context Data:
+{
+  "company_name": "GoML",
+  "founded_year": "Not explicitly stated",
+  "headquarters_operations": "Not explicitly stated",
+  "vision_statement": "Provide explainable and safe enterprise-ready generative AI solutions",
+  "mission_statement": "Empower businesses through automation of ML including generative AI and intelligent agents for decision-making and operational efficiency",
+  "business_model": "Custom AI solution development and deployment services",
+  "core_products_services": "Generative AI solutions, Data Engineering, MLOps, LLM applications, automated ML, intelligent agents for specific use cases",
+  "key_features_usps": "Real-time transaction monitoring, medical diagnosis acceleration, fraud detection, content generation, compliance automation, cross-industry intelligent data analysis",
+  "target_customers": "Healthcare, Financial Services, Pharmaceutical, Asset Management, Education sectors",
+  "pricing_strategy": "Unspecified (enterprise-focused custom solutions)",
+  "customer_value_proposition": "10X faster decision-making, 90% improved detection accuracy, $6M+ revenue generation, reduced operational time (72hrs compliance Augustment)",
+  "primary_markets": "Enterprise clients requiring enterprise AI solutions",
+  "go_to_market_strategy": "Partnership with AWS as top Gen AI partner, showcase customer success stories through case studies and testimonials",
+  "tech_stack": "AWS Gen AI, Data Engineering, MLOps, LLM applications",
+  "current_growth_stage": "Growth phase (50+ use cases developed in 6 months per AWS partner profile)",
+  "funding_status": "Unspecified",
+  "strategic_objectives": "Build enterprise-grade AI solutions through AWS partnership, expand use cases across industries",
+  "supply_chain_dependencies": "AWS infrastructure and services",
+  "partnerships_alliances": "Strategic AWS Gen AI partner",
+  "competitive_moat": "Specialization in enterprise AI solutions and AWS platform expertise",
+  "recent_strategic_moves": "Expansion of use cases (9M case saved, 10X decision-making, fraud detection agents)",
+  "recent_press": "Customer testimonials highlighting successful PoC implementations and deployment",
+  "risk_sensitivities": "Regulatory compliance in healthcare/finance sectors, technological dependency on AWS",
+  "opportunity_triggers": "Adoption of AI in cross-industry operations, need for faster decision-making in enterprises"
+}
+========================================
+
