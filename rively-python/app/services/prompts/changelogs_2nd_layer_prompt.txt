@@ -1,0 +1,27 @@
+Act as an expert in converting data into JSON format. You will be given the scraped content of changelogs or product updates page of a company. 
+Your task is to convert the changelog or product update posted after {one_week_ago}, into a dictionary with the following keys and ONLY return it as a JSON string:
+- 'date': The date of the changelog or product update.
+- 'all_text_data': The full text of the changelog or product update.
+DON'T RETURN ANYTHING ELSE EXPECT JSON OBJECT. STRICTLY NO EXPLANATORY TEXT.
+
+
+sample output:
+{{
+  "date": "2023-10-15",
+  "all_text_data": "Automated sequence exiting
+    We've just shipped a new Exit from sequence workflow block.
+    This means you can now automatically exit a record from any email sequence, ensuring you target the right people at the right time, with the right message.
+    For example, if you're running a sequence to nurture users on a free trial, you can now build a workflow to automatically exit users from the sequence when they convert to a paid subscription.
+    To learn how to automate your email sequences with Attio, check out our help center.",
+}}
+
+REMEMBER: YOUR OUTPUT SHOULD BE IN JSON FORMAT!!
+
+Scraped content:
+{scraped_text}
+
+
+
+
+
+

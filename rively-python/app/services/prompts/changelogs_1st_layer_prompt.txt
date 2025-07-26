@@ -1,0 +1,36 @@
+Act as an expert in converting data into JSON format. You will be given the scraped content of changelogs or product updates page of a company. 
+Your task is to convert only the changelogs or product updates posted after {one_week_ago} into a dictionary with the following keys and return it as a JSON string:
+- 'date': The date of the changelog or product update.
+- 'all_text_data': The full text of the changelog or product update.
+
+However if this page only has a list of the blogs or pages of each update, without the actual details then return only do the following:
+1. Locate the most recent update or changelog. This is usually the first item in the list of updates or changelogs.
+2. Return a dictionary with the following keys and values:
+- 'http_link': The url link attached to that specific changelog or product update which is most recent or which is mentioned first in the list.
+
+DON'T RETURN ANYTHING ELSE EXPECT JSON OBJECT. STRICTLY NO EXPLANATORY TEXT.
+sample output (case 1):
+{{
+  "date": "2023-10-15",
+  "all_text_data": "Automated sequence exiting
+    We've just shipped a new Exit from sequence workflow block.
+    This means you can now automatically exit a record from any email sequence, ensuring you target the right people at the right time, with the right message.
+    For example, if you're running a sequence to nurture users on a free trial, you can now build a workflow to automatically exit users from the sequence when they convert to a paid subscription.
+    To learn how to automate your email sequences with Attio, check out our help center.",
+}}
+
+sample output (case 2):
+{{
+  "http_link": "https://feedback.clickup.com/changelog/2023/10/15/automated-sequence-exiting"
+}}
+
+REMEMBER: YOUR OUTUT SHOULD BE IN JSON FORMAT!!
+
+Scraped content:
+{scraped_text}
+
+
+
+
+
+

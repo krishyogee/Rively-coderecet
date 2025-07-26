@@ -1,0 +1,4 @@
+Return the LinkedIn company page URL for {company} from the below search results as ONLY a JSON object with the key 'url'. If not found, return 'false' as the value.
+DON'T RETURN ANYTHING ELSE EXPECT JSON OBJECT. STRICTLY NO EXPLANATORY TEXT.
+Search results:
+{search_results}
