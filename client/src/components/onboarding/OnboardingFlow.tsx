@@ -7,43 +7,47 @@ import WorkspaceStep from './WorkspaceStep';
 import TeamsStep from './TeamsStep';
 import type { Workspace, Team } from './types';
 
+enum Step {
+  Workspace = 1,
+  Teams,
+}
+
 export default function OnboardingFlow() {
   const router = useRouter();
-  const [step, setStep] = useState(1);
-  const [workspace, setWorkspace] = useState<Workspace>({
-    name: '',
-    type: 'create',
-  });
+  const [step, setStep] = useState<Step>(Step.Workspace);
+  const [workspace, setWorkspace] = useState<Workspace>({ name: '', type: 'create' });
   const [teams, setTeams] = useState<Team[]>([]);
 
-  const handleWorkspaceComplete = async (workspaceData: Workspace) => {
+  const handleWorkspaceComplete = async (data: Workspace) => {
     try {
-      // You would implement your API call here
-      // await createWorkspace(workspaceData);
-      setWorkspace(workspaceData);
-      setStep(2);
-    } catch (error) {
-      console.error('Failed to create workspace:', error);
-      // Handle error appropriately
+      // await createWorkspace(data);
+      setWorkspace(data);
+      setStep(Step.Teams);
+    } catch (err) {
+      console.error('Workspace creation failed:', err);
     }
   };
 
-  const handleTeamsComplete = async (teamsData: Team[]) => {
+  const handleTeamsComplete = async (data: Team[]) => {
     try {
-      // You would implement your API call here
-      // await createTeams(teamsData);
-      setTeams(teamsData);
-      router.push('/dashboard'); // Redirect to dashboard after completion
-    } catch (error) {
-      console.error('Failed to create teams:', error);
-      // Handle error appropriately
+      // await createTeams(data);
+      setTeams(data);
+      router.push('/dashboard');
+    } catch (err) {
+      console.error('Team creation failed:', err);
     }
   };
 
-  return (
-    <Card className="p-6">
-      {step === 1 && <WorkspaceStep onComplete={handleWorkspaceComplete} />}
-      {step === 2 && <TeamsStep onComplete={handleTeamsComplete} />}
-    </Card>
-  );
+  const renderStep = () => {
+    switch (step) {
+      case Step.Workspace:
+        return <WorkspaceStep onComplete={handleWorkspaceComplete} />;
+      case Step.Teams:
+        return <TeamsStep onComplete={handleTeamsComplete} />;
+      default:
+        return null;
+    }
+  };
+
+  return <Card className="p-6">{renderStep()}</Card>;
 }
